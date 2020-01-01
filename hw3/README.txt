@@ -1,4 +1,4 @@
-Compile in virtualbox Ubuntu/16.04
+Compile in macOS
 To execute:
     1. make
     2. ./hw3 -r FILENAME
