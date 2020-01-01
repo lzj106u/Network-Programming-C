@@ -1,7 +1,7 @@
 Compile in virtualbox Ubuntu/16.04
 To execute:
     1. make
-    2. ./hw3 -r 1.pcap
+    2. ./hw3 -r FILENAME
 
 請撰寫一個pcap封包檔讀檔程式，具有下列幾項功能。
 1. 可在command option使用-r pcap_file，從pcap_file中讀取封包。
